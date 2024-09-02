@@ -8,8 +8,7 @@ Welcome to the **Rock Paper Scissors** game! ✊✋🗞 This project is a simple
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [How to Play](#how-to-play)
-- [Project Structure](#project-structure)
-- [License](#license)
+- [Footer](#footer))
 
 ## 🚀 Features
 
