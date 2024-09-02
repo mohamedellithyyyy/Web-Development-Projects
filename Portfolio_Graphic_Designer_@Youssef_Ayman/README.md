@@ -52,25 +52,6 @@ To get a local copy up and running, follow these steps:
   - `vendor/` - Third-party libraries like Bootstrap.
 - `README.md` - This file.
 
-## Contributing
-
-If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. Ensure that your changes do not break any existing functionality and adhere to the project's coding standards.
-
-## Contact
-
-For any questions or inquiries, feel free to reach out to me:
-
-- **Email:** ya680648@gmail.com
-- **LinkedIn:** [Youssef Ayman](https://www.linkedin.com/in/your-profile)
-- **GitHub:** [your-username](https://github.com/your-username)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Developed by [Mohamed Ellithy (Lithium JR)](https://www.linkedin.com/in/mohamedellithyyy/)
-```
-
-Replace `your-username` and `your-profile` with your actual GitHub username and LinkedIn profile link. Adjust any other sections as necessary to fit your project's specifics.
