@@ -46,4 +46,4 @@ For any inquiries or feedback, feel free to contact us at [mohamedellithyyy@gmai
 
 ---
 
-© 2024 [Lithium JR (Emgi)](https://github.com/mohamedellithyyyy) - Tutorial HTML 🟧 CSS 🎨 JS ⚙️
+© 2024 [Lithium JR](https://github.com/mohamedellithyyyy) - Tutorial HTML 🟧 CSS 🎨 JS ⚙️
