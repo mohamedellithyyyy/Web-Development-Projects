@@ -1,5 +1,3 @@
-Here's a basic `README.md` template for your project. You can customize it further based on your specific needs and details:
-
 ```markdown
 # Youssef Ayman's Portfolio
 
