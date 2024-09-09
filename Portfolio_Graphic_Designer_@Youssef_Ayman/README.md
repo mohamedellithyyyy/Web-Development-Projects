@@ -1,4 +1,3 @@
-```markdown
 # Youssef Ayman's Portfolio
 
 Welcome to Youssef Ayman's portfolio! This project showcases my skills and work as a Graphic Designer. The portfolio includes sections for a hero image, about information, and a gallery of my work.
